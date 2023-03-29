@@ -19,9 +19,9 @@
 - I'm always on the lookout for new things to try out, whether it's experimenting with a new programming language or trying out a new recipe in the kitchen. 
 - I believe that the best way to grow as a programmer and as a person is to never stop learning and challenging oneself, and I'm excited to continue on this journey of discovery and growth.
 
-![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=stayhungry134&show_icons=true&card_width=495&&theme=gruvbox_light)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stayhungry134&show_icons=true&card_width=495&theme=gruvbox_light)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stayhungry134&&show_icons=true&card_width=990&bg_color=0,ead6f1,a0f1ea&title_color=000&text_color=000)
+| <a href="https://github.com/stayhungry134/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stayhungry134&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&card_width=400" alt="Anurag's github stats" /></a> | <a href="https://github.com/stayhungry134/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayhungry134&layout=compact&theme=buefy&hide_border=true&card_width=400" /></a> |
+| ------------- | ------------- |
+
 
 ### My stack:
 <div>
