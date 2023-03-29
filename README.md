@@ -21,7 +21,7 @@
 
 ![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=stayhungry134&show_icons=true&card_width=500&&theme=gruvbox_light)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stayhungry134&show_icons=true&card_width=500&theme=gruvbox_light)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stayhungry134&&show_icons=true&card_width=100&bg_color=0,ead6f1,a0f1ea&title_color=000&text_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stayhungry134&&show_icons=true&card_width=1000&bg_color=0,ead6f1,a0f1ea&title_color=000&text_color=000)
 
 ### My stack:
 <div>
