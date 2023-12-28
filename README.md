@@ -34,11 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
 <p align="center">
   <a href="https://open.spotify.com/user/31segemng46w7ori4lwpignc3uum" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p> -->
+</p>
 
 <!-- Here are some ideas to get you started:
 
