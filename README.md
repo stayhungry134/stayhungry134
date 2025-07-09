@@ -6,7 +6,7 @@
   </h1>
 </div>
 <p align="center">
-  <a href="https://www.ibiren.cn/" target="_blank"><img src="https://img.shields.io/badge/Myblog-ef914b.svg?&style=flat-square&logoColor=white" alt="MyBlog"></a>
+  <a href="https://blog.ibiren.cn:8000/" target="_blank"><img src="https://img.shields.io/badge/Myblog-ef914b.svg?&style=flat-square&logoColor=white" alt="MyBlog"></a>
   <a href="mailto:stayhungry134@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://open.spotify.com/user/31segemng46w7ori4lwpignc3uum" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://twitter.com/stayhungry134" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
